@@ -1,0 +1,19 @@
+{
+  "name": "moz-can-run-script-boundary-adder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "moz-can-run-script-boundary-adder": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
